@@ -5,5 +5,5 @@ Hi there 👋
 - 🌱 I’m learning Python and React !
 - 💬 Ask me about how to not kill your plants
 - 📫 How to reach me on LinkedIn: https://www.linkedin.com/in/marlandre/
-- 😄 Pronouns: they/them
-- ⚡ Fun fact: I love making geeky crochet project and puzzles
+- 😄 Pronouns: they/she
+- ⚡ Fun fact: I love making geeky crochet project and solving puzzles
