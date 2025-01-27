@@ -15,9 +15,9 @@
 
   <h3> I'm a full-Stack developer from Canada.</h3>
 
-- 🔭 I’m currently looking for a job as a fullstack developer
-- 💬 I’m learning Python, Django and Vue.js !
-- 🥀 I'm working on JavaScript projects 
+- 🔭 I’m currently looking for a job as a backend developer (with fullstack experience).
+- 🥀 I'm proficient in Python, Django and Vue.js
+- 💬 I'm continuously improving my skills in TypeScript and React!
 - 🌱 I can teach you how to not kill your plants 
 - ⚡ Fun fact: I love making geeky crochet projects and solving puzzles
 
